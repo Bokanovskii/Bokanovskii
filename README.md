@@ -1,4 +1,4 @@
-# Charles (Charlie) Ward
+# Charlie Ward
 
 Software engineer in Seattle focused on AI search, retrieval, evaluation,
 backend systems, and developer infrastructure.

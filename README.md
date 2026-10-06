@@ -19,5 +19,4 @@ history. Seaglass combines semantic and keyword search, reranking, evaluation,
 and a desktop app while keeping message content, embeddings, and queries
 entirely on-device.
 
-[LinkedIn](https://www.linkedin.com/in/charlie-ward-331965195/) |
-[Research](https://arxiv.org/abs/2206.11258)
+[LinkedIn](https://www.linkedin.com/in/charlie-ward-331965195/)
